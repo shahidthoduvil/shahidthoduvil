@@ -12,3 +12,4 @@ Skills: Html,css,javascript,python,django,psql,mongodb,figma,redux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahidthoduvil)](https://github.com/anuraghazra/github-readme-stats)
 
+(https://github-readme-stats.vercel.app/api?username=shahidthoduvil)](https://github.com/shahidthoduvil/github-readme-stats)
