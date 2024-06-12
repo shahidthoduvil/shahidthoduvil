@@ -1,5 +1,5 @@
  ### Hi  👋, My Name is MOHAMMED SHAHID KM
- #### self taught python django developer
+ #### Python Django ReactJS Developer 
 
 
 
